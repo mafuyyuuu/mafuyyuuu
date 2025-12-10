@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Jhervin Jimenez! 👋
 
-<!--
-**mafuyyuuu/mafuyyuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer from the Philippines 🇵🇭 and a BSIT student at Pamantasan ng Lungsod ng Pasig. I specialize in building full-stack applications injected with Artificial Intelligence.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Working On
+- **SafePasig.AI:** A smart community security system using **React Native**, **Node.js**, and **YOLOv8** for real-time threat detection.
+- **Jhervis:** My personal AI Digital Companion. A voice-activated portfolio assistant built with **LiveKit** and **LLMs**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+**Languages:**
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=oracle)
+
+**Frameworks & Tools:**
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)
+![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
+
+### 🏆 Achievements
+- **President's Lister** @ PLP
+- **Best in Research** (2021)
+
+---
+📫 **Reach me at:** jhervinjimenez03@gmail.com

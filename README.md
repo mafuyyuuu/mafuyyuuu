@@ -1,12 +1,12 @@
-# Hi there, I'm Jhervin Jimenez! 👋
+# Hi there, I'm Jhervin Jimenez!
 
-I'm a developer from the Philippines 🇵🇭 and a BSIT student at Pamantasan ng Lungsod ng Pasig. I specialize in building full-stack applications injected with Artificial Intelligence.
+I'm a developer from the Philippines and a BSIT student at Pamantasan ng Lungsod ng Pasig. I specialize in building full-stack applications injected with Artificial Intelligence.
 
-### 🚀 What I'm Working On
+### What I'm Currently Working On
 - **SafePasig.AI:** A smart community security system using **React Native**, **Node.js**, and **YOLOv8** for real-time threat detection.
 - **Jhervis:** My personal AI Digital Companion. A voice-activated portfolio assistant built with **LiveKit** and **LLMs**.
 
-### 🛠️ Tech Stack
+### Tech Stack
 **Languages:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
@@ -19,9 +19,9 @@ I'm a developer from the Philippines 🇵🇭 and a BSIT student at Pamantasan n
 ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
 
-### 🏆 Achievements
+### Achievements
 - **President's Lister** @ PLP
 - **Best in Research** (2021)
 
 ---
-📫 **Reach me at:** jhervinjimenez03@gmail.com
+**Reach me at:** jhervinjimenez03@gmail.com
